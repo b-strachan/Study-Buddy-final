@@ -1,4 +1,4 @@
-# Study Buddy Final
+# Study Buddy
 
 An LMS-integrated AI Study Buddy designed for schools.
 
