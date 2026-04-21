@@ -1,0 +1,10 @@
+{
+    "http://192.168.0.62": {
+        "client_id": "v3UFQiEvb7LJPVI",
+        "auth_login_url": "http://192.168.0.62/mod/lti/auth.php",
+        "auth_token_url": "http://192.168.0.62/mod/lti/token.php",
+        "key_set_url": "http://192.168.0.62/mod/lti/certs.php",
+        "private_key_file": "private.key",
+        "deployment_ids": ["1"]
+    }
+}

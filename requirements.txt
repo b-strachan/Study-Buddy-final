@@ -1,0 +1,28 @@
+
+# --- API Framework ---
+fastapi
+uvicorn[standard]
+python-multipart
+
+# --- LLM & Routing ---
+litellm
+
+# --- Vector DB & Embeddings ---
+cachetools
+PyPDF2
+qdrant-client
+sentence-transformers
+langchain-text-splitters
+sqlalchemy
+
+# --- Document Processing ---
+PyMuPDF
+python-docx
+beautifulsoup4
+pydantic
+
+# --- LTI ---
+PyLTI1p3==2.0.0
+
+# ---Fast API---
+itsdangerous
